@@ -18,9 +18,13 @@ data/pref/
 data/eval_prompts.json
 adapters/sft-mini/
 adapters/dpo/
+adapters/merged-fp16/
+adapters/merged-fp16_gguf/
 adapters/orpo/
 gguf/
 *.gguf
+lab22*.zip
+lab22/
 runs/
 wandb/
 
